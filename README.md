@@ -19,7 +19,7 @@ Key modifications include:
 - **Reinforcement Learning**: Uses reinforcement learning to optimize alpha signals for crypto trading.
 - **Backtesting Support**: Evaluate generated alphas using historical crypto data.
 - **Customizable**: Easily adapt to different cryptocurrency exchanges and data sources.
-   ```
+
 
 ## Contributions
 
