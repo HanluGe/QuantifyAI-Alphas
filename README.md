@@ -4,7 +4,7 @@ QuantifyAI-Alphas is a research-oriented framework for generating, evaluating, a
 
 ## Project Structure
 
-```
+```python
 alphagen-futures/
 ├── alphagen/             # Core modules: models, strategies, data structures
 │   ├── trade/            # Trading logic
