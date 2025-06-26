@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output and result folders (optional, you can modify)
+result/
+output/
+checkpoints/
+*.feather
+*.csv
+*.pdf
+*.zip
+
+# Secrets / credentials
+*.key
+*.pem
+*.env
